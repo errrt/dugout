@@ -1,0 +1,100 @@
+[15-Aug-2017 12:09:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'dugout' in /home/ubuntu/workspace/entry/entry.php on line 4
+[15-Aug-2017 12:09:35 UTC] PHP Stack trace:
+[15-Aug-2017 12:09:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/entry/entry.php:0
+[15-Aug-2017 12:09:35 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/entry/entry.php:4
+[15-Aug-2017 12:09:35 UTC] PHP Fatal error:  Call to undefined function mysqli_connect_erro() in /home/ubuntu/workspace/entry/entry.php on line 4
+[15-Aug-2017 12:09:35 UTC] PHP Stack trace:
+[15-Aug-2017 12:09:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/entry/entry.php:0
+[24-Aug-2017 11:10:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 26
+[24-Aug-2017 11:10:06 UTC] PHP Stack trace:
+[24-Aug-2017 11:10:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[24-Aug-2017 11:10:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 30
+[24-Aug-2017 11:10:06 UTC] PHP Stack trace:
+[24-Aug-2017 11:10:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[24-Aug-2017 11:10:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 52
+[24-Aug-2017 11:10:06 UTC] PHP Stack trace:
+[24-Aug-2017 11:10:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[24-Aug-2017 22:18:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 26
+[24-Aug-2017 22:18:21 UTC] PHP Stack trace:
+[24-Aug-2017 22:18:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[24-Aug-2017 22:18:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 30
+[24-Aug-2017 22:18:21 UTC] PHP Stack trace:
+[24-Aug-2017 22:18:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[24-Aug-2017 22:18:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 52
+[24-Aug-2017 22:18:21 UTC] PHP Stack trace:
+[24-Aug-2017 22:18:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[25-Aug-2017 00:40:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 26
+[25-Aug-2017 00:40:50 UTC] PHP Stack trace:
+[25-Aug-2017 00:40:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[25-Aug-2017 00:40:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 30
+[25-Aug-2017 00:40:50 UTC] PHP Stack trace:
+[25-Aug-2017 00:40:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[25-Aug-2017 00:40:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 52
+[25-Aug-2017 00:40:50 UTC] PHP Stack trace:
+[25-Aug-2017 00:40:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[25-Aug-2017 01:19:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 23
+[25-Aug-2017 01:19:02 UTC] PHP Stack trace:
+[25-Aug-2017 01:19:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[25-Aug-2017 01:19:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 27
+[25-Aug-2017 01:19:02 UTC] PHP Stack trace:
+[25-Aug-2017 01:19:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[25-Aug-2017 01:19:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 49
+[25-Aug-2017 01:19:02 UTC] PHP Stack trace:
+[25-Aug-2017 01:19:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[25-Aug-2017 01:40:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 151
+[25-Aug-2017 01:40:54 UTC] PHP Stack trace:
+[25-Aug-2017 01:40:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[25-Aug-2017 01:41:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 151
+[25-Aug-2017 01:41:44 UTC] PHP Stack trace:
+[25-Aug-2017 01:41:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[25-Aug-2017 01:41:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 151
+[25-Aug-2017 01:41:46 UTC] PHP Stack trace:
+[25-Aug-2017 01:41:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[25-Aug-2017 01:42:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 151
+[25-Aug-2017 01:42:06 UTC] PHP Stack trace:
+[25-Aug-2017 01:42:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[25-Aug-2017 01:42:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 151
+[25-Aug-2017 01:42:42 UTC] PHP Stack trace:
+[25-Aug-2017 01:42:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[25-Aug-2017 01:42:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 151
+[25-Aug-2017 01:42:55 UTC] PHP Stack trace:
+[25-Aug-2017 01:42:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[25-Aug-2017 01:43:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 151
+[25-Aug-2017 01:43:40 UTC] PHP Stack trace:
+[25-Aug-2017 01:43:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[25-Aug-2017 01:44:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 151
+[25-Aug-2017 01:44:43 UTC] PHP Stack trace:
+[25-Aug-2017 01:44:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[25-Aug-2017 01:45:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 151
+[25-Aug-2017 01:45:13 UTC] PHP Stack trace:
+[25-Aug-2017 01:45:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[25-Aug-2017 01:45:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 151
+[25-Aug-2017 01:45:41 UTC] PHP Stack trace:
+[25-Aug-2017 01:45:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[25-Aug-2017 01:45:53 UTC] PHP Parse error:  syntax error, unexpected 'データベース処理でエ' (T_STRING) in /home/ubuntu/workspace/top/top.php on line 120
+[25-Aug-2017 01:46:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 151
+[25-Aug-2017 01:46:02 UTC] PHP Stack trace:
+[25-Aug-2017 01:46:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[25-Aug-2017 01:58:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 151
+[25-Aug-2017 01:58:41 UTC] PHP Stack trace:
+[25-Aug-2017 01:58:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[25-Aug-2017 01:58:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 151
+[25-Aug-2017 01:58:49 UTC] PHP Stack trace:
+[25-Aug-2017 01:58:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[25-Aug-2017 01:58:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 151
+[25-Aug-2017 01:58:52 UTC] PHP Stack trace:
+[25-Aug-2017 01:58:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[25-Aug-2017 01:59:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 151
+[25-Aug-2017 01:59:41 UTC] PHP Stack trace:
+[25-Aug-2017 01:59:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0
+[25-Aug-2017 02:25:05 UTC] PHP Warning:  move_uploaded_file(./img/77a9e0a6fa569c641bfddc000a84ed53.jpg): failed to open stream: No such file or directory in /home/ubuntu/workspace/top/tool.php on line 101
+[25-Aug-2017 02:25:05 UTC] PHP Stack trace:
+[25-Aug-2017 02:25:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/tool.php:0
+[25-Aug-2017 02:25:05 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/top/tool.php:101
+[25-Aug-2017 02:25:05 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpgvfLnG' to './img/77a9e0a6fa569c641bfddc000a84ed53.jpg' in /home/ubuntu/workspace/top/tool.php on line 101
+[25-Aug-2017 02:25:05 UTC] PHP Stack trace:
+[25-Aug-2017 02:25:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/tool.php:0
+[25-Aug-2017 02:25:05 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/top/tool.php:101
+[25-Aug-2017 03:07:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/top/top.php on line 156
+[25-Aug-2017 03:07:32 UTC] PHP Stack trace:
+[25-Aug-2017 03:07:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/top/top.php:0

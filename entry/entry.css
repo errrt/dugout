@@ -1,0 +1,19 @@
+#entry{
+    text-align:center;
+    margin-top: 130px;
+}
+#entry_logo{
+    font-size:110px;
+}
+#entry_option{
+    display: block;
+}
+body{
+    background-image: url(/img/gahag-0074450828.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #464646;
+    color: white;
+}
